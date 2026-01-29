@@ -2,8 +2,10 @@
 layout: default
 title: ANTHONY JULIEN
 ---
-
-# Transformer des données complexes en informations d’affaires claires et fiables.
+<p align="center">
+# PORTFOLIO
+## Des données complexes aux informations d'affaires
+</p>
 
 ---
 
