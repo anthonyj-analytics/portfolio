@@ -26,7 +26,7 @@ Ce portfolio présente des projets mettant en valeur mes compétences en **analy
 
 ### Analyse de l’attrition des employés  
 
-[Rapport exécutif →](https://github.com/anthonyj-analytics/employee-retention-analysis/blob/main/reports/Executive_summary.pdf)
+[Télécharger le rapport exécutif (PDF) →](https://raw.githubusercontent.com/anthonyj-analytics/employee-retention-analysis/main/reports/Executive_summary.pdf)
 
 Projet complet de science des données explorant les facteurs de départ des employés à partir d’un jeu de données RH réel.  
 Inclut l’analyse exploratoire (EDA), l’ingénierie des variables, les tests d’hypothèses et la modélisation en classification, avec un accent particulier sur **l’interprétabilité pour les utilisateurs métiers**.
@@ -40,8 +40,8 @@ Inclut l’analyse exploratoire (EDA), l’ingénierie des variables, les tests 
 
 ---
 
-### Impacts de foudre aux États-Unis — Tableau de bord Tableau  
-[Voir le dépôt →](https://github.com/anthonyj-analytics/tableau-lightning-strikes)
+### Une petite histoire de la foudre — Tableau de bord Tableau  
+
 
 Tableau de bord interactif sous Tableau visualisant dix ans de données d’impacts de foudre à travers les États-Unis.  
 Projet centré sur la **narration par les données (data storytelling)**, l’analyse spatiale et l’exploration visuelle.
@@ -50,6 +50,8 @@ Projet centré sur la **narration par les données (data storytelling)**, l’an
 - Préparation des données et agrégation spatiale  
 - Conception de tableaux de bord avec filtres et exploration détaillée  
 - Communication visuelle des tendances pour des publics non techniques
+
+[Voir le dépôt →](https://github.com/anthonyj-analytics/tableau-lightning-strikes)
 
 ---
 
