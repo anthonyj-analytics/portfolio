@@ -2,10 +2,9 @@
 layout: default
 title: ANTHONY JULIEN
 ---
-<p align="center">
+
 # PORTFOLIO
 ## Des données complexes aux informations d'affaires
-</p>
 
 ---
 
@@ -26,7 +25,8 @@ Ce portfolio présente des projets mettant en valeur mes compétences en **analy
 ## Projets sélectionnés
 
 ### Analyse de l’attrition des employés  
-[Voir le dépôt →](https://github.com/anthonyj-analytics/employee-retention-analysis)
+
+[Rapport exécutif →](https://github.com/anthonyj-analytics/employee-retention-analysis/blob/main/reports/Executive_summary.pdf)
 
 Projet complet de science des données explorant les facteurs de départ des employés à partir d’un jeu de données RH réel.  
 Inclut l’analyse exploratoire (EDA), l’ingénierie des variables, les tests d’hypothèses et la modélisation en classification, avec un accent particulier sur **l’interprétabilité pour les utilisateurs métiers**.
@@ -35,6 +35,8 @@ Inclut l’analyse exploratoire (EDA), l’ingénierie des variables, les tests 
 - Régression logistique et modèles basés sur les arbres  
 - Gestion du déséquilibre des classes et optimisation des seuils de décision  
 - Communication claire des résultats du modèle pour les parties prenantes RH
+
+[Voir le dépôt →](https://github.com/anthonyj-analytics/employee-retention-analysis)
 
 ---
 
