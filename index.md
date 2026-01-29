@@ -26,7 +26,7 @@ Ce portfolio présente des projets mettant en valeur mes compétences en **analy
 
 ### Analyse de l’attrition des employés  
 
-[Télécharger le rapport exécutif (PDF) →](https://raw.githubusercontent.com/anthonyj-analytics/employee-retention-analysis/main/reports/Executive_summary.pdf)
+[Télécharger le rapport exécutif (PDF)](https://raw.githubusercontent.com/anthonyj-analytics/employee-retention-analysis/main/reports/Executive_summary.pdf)
 
 Projet complet de science des données explorant les facteurs de départ des employés à partir d’un jeu de données RH réel.  
 Inclut l’analyse exploratoire (EDA), l’ingénierie des variables, les tests d’hypothèses et la modélisation en classification, avec un accent particulier sur **l’interprétabilité pour les utilisateurs métiers**.
@@ -36,7 +36,7 @@ Inclut l’analyse exploratoire (EDA), l’ingénierie des variables, les tests 
 - Gestion du déséquilibre des classes et optimisation des seuils de décision  
 - Communication claire des résultats du modèle pour les parties prenantes RH
 
-[Voir le dépôt →](https://github.com/anthonyj-analytics/employee-retention-analysis)
+[Voir le dépôt GitHub](https://github.com/anthonyj-analytics/employee-retention-analysis)
 
 ---
 
@@ -51,12 +51,12 @@ Projet centré sur la **narration par les données (data storytelling)**, l’an
 - Conception de tableaux de bord avec filtres et exploration détaillée  
 - Communication visuelle des tendances pour des publics non techniques
 
-[Voir le dépôt →](https://github.com/anthonyj-analytics/tableau-lightning-strikes)
+[Voir le dépôt GitHub](https://github.com/anthonyj-analytics/tableau-lightning-strikes)
 
 ---
 
 ### Pipeline ETL en temps réel — Transport collectif (API STM → SQL Server)  
-[Voir le dépôt →](https://github.com/anthonyj-analytics/STM-api-etl-pipeline)
+
 
 Pipeline ETL automatisé récupérant en temps réel les alertes du métro via l’API de la STM, transformant et validant les données, puis mettant à jour une base SQL.
 
@@ -66,6 +66,8 @@ Pipeline ETL automatisé récupérant en temps réel les alertes du métro via l
 - Structuration des données en base pour l’alimentation de tableaux de bord BI et de rapports
 
 ---
+
+[Voir le dépôt GitHub](https://github.com/anthonyj-analytics/STM-api-etl-pipeline)
 
 ## Compétences techniques
 
