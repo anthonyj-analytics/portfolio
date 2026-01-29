@@ -3,91 +3,88 @@ layout: default
 title: ANTHONY JULIEN
 ---
 
-# Turning complex data into clear, reliable business insights.
+# Transformer des données complexes en informations d’affaires claires et fiables.
 
 ---
 
+## Présentation
 
+Je suis analyste de données avec une forte spécialisation en **SQL, Python, tableaux de bord BI et visualisation de données**.  
+Mon approche allie rigueur technique, clarté analytique et souci constant de **communiquer des résultats réellement utiles à la prise de décision**.
 
+Issu d’un parcours croisant **analyse de données et analyse spatiale**, j’interviens sur l’ensemble de la chaîne analytique : ingestion, nettoyage, modélisation des données, conception d’indicateurs (KPI), création de tableaux de bord et communication des résultats.
 
-## Overview
-
-I am a data analyst with a strong focus on **SQL, Python, BI dashboards and data visualization**.  
-My approach combines technical rigor, analytical clarity, and an emphasis on **communicating results that truly support decision-making**.
-
-With a background bridging **data analytics and spatial analysis**, I work across the full analytical pipeline: data ingestion, cleaning, modeling, KPI design, dashboard building, and insight communication.
-
-This portfolio presents projects that highlight my strengths in **analytics, ETL workflows, BI dashboards, and reproducible data processes**.
+Ce portfolio présente des projets mettant en valeur mes compétences en **analyse, workflows ETL, tableaux de bord BI et processus de données reproductibles**.
 
 ---
 
-## Selected Projects
+## Projets sélectionnés
 
-### Employee Attrition Analysis  
-[View repository →](https://github.com/anthonyj-analytics/employee-retention-analysis)
+### Analyse de l’attrition des employés  
+[Voir le dépôt →](https://github.com/anthonyj-analytics/employee-retention-analysis)
 
-End-to-end data science project exploring attrition drivers within a real-world HR dataset.  
-Includes EDA, feature engineering, hypothesis testing, and classification modeling with a focus on **interpretability for business users**.
+Projet complet de science des données explorant les facteurs de départ des employés à partir d’un jeu de données RH réel.  
+Inclut l’analyse exploratoire (EDA), l’ingénierie des variables, les tests d’hypothèses et la modélisation en classification, avec un accent particulier sur **l’interprétabilité pour les utilisateurs métiers**.
 
-**Key contributions:**  
-- Logistic regression and tree-based models  
-- Handling class imbalance and optimizing decision thresholds  
-- Clear communication of model insights for HR stakeholders
-
----
-
-### Lightning Strikes in the US — Tableau Dashboard  
-[View repository →](https://github.com/anthonyj-analytics/tableau-lightning-strikes)
-
-Interactive Tableau dashboard visualizing ten years of lightning strike data across the US.  
-A project centered on **data storytelling**, spatial patterns, and visual exploration.
-
-**Key contributions:**  
-- Data preparation and spatial aggregation  
-- Dashboard design with filters and drill-downs  
-- Communicating trends visually for non-technical audiences
+**Contributions clés :**  
+- Régression logistique et modèles basés sur les arbres  
+- Gestion du déséquilibre des classes et optimisation des seuils de décision  
+- Communication claire des résultats du modèle pour les parties prenantes RH
 
 ---
 
-### Real-Time Transit ETL Pipeline (STM API → SQL Server)  
-[View repository →](https://github.com/anthonyj-analytics/STM-api-etl-pipeline)
+### Impacts de foudre aux États-Unis — Tableau de bord Tableau  
+[Voir le dépôt →](https://github.com/anthonyj-analytics/tableau-lightning-strikes)
 
-Automated ETL pipeline retrieving real-time metro alerts from the STM API, transforming and validating the payload, and updating a SQL database.
+Tableau de bord interactif sous Tableau visualisant dix ans de données d’impacts de foudre à travers les États-Unis.  
+Projet centré sur la **narration par les données (data storytelling)**, l’analyse spatiale et l’exploration visuelle.
 
-**Key contributions:**  
-- API ingestion and JSON processing  
-- ETL automation with FME Workbench  
-- Structured database output enabling BI dashboards and reporting
+**Contributions clés :**  
+- Préparation des données et agrégation spatiale  
+- Conception de tableaux de bord avec filtres et exploration détaillée  
+- Communication visuelle des tendances pour des publics non techniques
 
 ---
 
-## Technical Skills
+### Pipeline ETL en temps réel — Transport collectif (API STM → SQL Server)  
+[Voir le dépôt →](https://github.com/anthonyj-analytics/STM-api-etl-pipeline)
 
-**Languages & Querying**  
+Pipeline ETL automatisé récupérant en temps réel les alertes du métro via l’API de la STM, transformant et validant les données, puis mettant à jour une base SQL.
+
+**Contributions clés :**  
+- Ingestion d’API et traitement JSON  
+- Automatisation ETL avec FME Workbench  
+- Structuration des données en base pour l’alimentation de tableaux de bord BI et de rapports
+
+---
+
+## Compétences techniques
+
+**Langages & requêtage**  
 SQL · Python (pandas, NumPy, scikit-learn)
 
-**Analytics & Visualization**  
+**Analyse & visualisation**  
 Power BI · Tableau · Jupyter Notebooks
 
-**Data Engineering & GIS**  
-ETL workflows (FME) · SQL Server / PostgreSQL · ArcGIS / QGIS
+**Ingénierie des données & SIG**  
+Workflows ETL (FME) · SQL Server / PostgreSQL · ArcGIS / QGIS
 
-**Core Strengths**  
-Analytical thinking · Clear communication · Data storytelling · Documentation & reproducibility
+**Forces principales**  
+Pensée analytique · Communication claire · Data storytelling · Documentation & reproductibilité
 
 ---
 
-## About Me
+## À propos
 
-I come from a hybrid path through **humanities and geospatial analysis**, which strengthened both my analytical discipline and my ability to communicate complex ideas clearly.  
-I now specialize in transforming raw datasets into **structured, reliable insights** and building dashboards that help teams understand what matters and why.
+Issu d’un parcours hybride mêlant **sciences humaines et géomatique**, j’ai développé à la fois une forte rigueur analytique et une grande capacité à expliquer clairement des idées complexes.  
+Je me spécialise aujourd’hui dans la transformation de données brutes en **informations structurées, fiables et exploitables**, ainsi que dans la conception de tableaux de bord aidant les équipes à comprendre ce qui compte — et pourquoi.
 
-I value **clarity, precision, and usefulness** in every analytical deliverable.
+J’accorde une grande importance à la **clarté, à la précision et à l’utilité** dans chacun de mes livrables analytiques.
 
 ---
 
 ## Contact
 
-- GitHub: [@anthonyj-analytics](https://github.com/anthonyj-analytics)  
-- Email: anthony.julien.data@gmail.com 
-- LinkedIn: [LinkedIn profile ->](https://www.linkedin.com/in/anthony-julien-analytics/) 
+- GitHub : [@anthonyj-analytics](https://github.com/anthonyj-analytics)  
+- Courriel : anthony.julien.data@gmail.com  
+- LinkedIn : [Profil LinkedIn →](https://www.linkedin.com/in/anthony-julien-analytics/)
