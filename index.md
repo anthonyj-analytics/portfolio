@@ -10,9 +10,12 @@ title: ANTHONY JULIEN
 ## Présentation
 
 Je suis analyste de données avec une forte spécialisation en **SQL, Python, tableaux de bord BI et visualisation de données**.  
-Mon approche allie rigueur technique, clarté analytique et souci constant de **communiquer des résultats réellement utiles à la prise de décision**.
 
-Issu d’un parcours croisant **analyse de données et analyse spatiale**, j’interviens sur l’ensemble de la chaîne analytique : ingestion, nettoyage, modélisation des données, conception d’indicateurs (KPI), création de tableaux de bord et communication des résultats.
+J’allie créativité et pensée critique pour résoudre des problèmes complexes de manière originale et rigoureuse.
+
+Issu d’un parcours croisant **analyse de données et analyse spatiale**, j’aime comprendre les causes profondes et les relations sous-jacentes entre les données brutes, afin de leur donner du sens et de révéler l’histoire qu’elles racontent.
+
+Ce que je cherche avant tout : rendre les données plus compréhensibles, plus humaines, et plus utiles à celles et ceux qui prennent des décisions.
 
 Ce portfolio présente des projets mettant en valeur mes compétences en **analyse, workflows ETL, tableaux de bord BI et processus de données reproductibles**.
 
